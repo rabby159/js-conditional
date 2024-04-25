@@ -51,6 +51,6 @@ function sumOfAllNumber(arrNumbers){
     return arrSum;
 }
 
-const arr = [2, 1, 3, 9, 0, 2, 1, 2, 4];
+const arr = [2, 1, 3, 9, 0, 2, 0, 6, 7];
 const totalSum = sumOfAllNumber(arr);
 console.log('Total sum of you ID: ',totalSum);
